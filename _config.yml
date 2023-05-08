@@ -2,29 +2,30 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Dheeraj Jha
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: ""
+# baseurl: "/neumorphism"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: DheerajJha
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Software Engineer
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: contact@jhadheeraj.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: jhadheeraj1986
+# codepen_username: exampleUser
+# dev_username: exampleUser
+linkedin_username: jhadheeraj
+twitter_username: dheerajjha03
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -32,9 +33,11 @@ twitter_username: exampleUser
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: More about me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Meet <span style="color:red;font-weight:bold">Dheeraj Jha</span>, a highly skilled and passionate <span style="color:red;font-weight:bold">software engineer with almost 13 years of experience</span> in the IT industry. Based in <span style="color:red;font-weight:bold">Bangalore</span>, India, <span style="color:deepskyblue;font-style:italic">Dheeraj is a student at heart and a Tech Lead by profession</span>.<br><br> Dheeraj's core skills lie in C++ <span style="color:red;font-weight:bold">(11/14/17)</span>, and he also has experience with <span style="color:red;font-weight:bold">Python</span>. He is currently expanding his skill set by learning new programming languages like Rust. He has extensive experience in <span style="color:red;font-weight:bold">designing and developing software products</span>, with a keen interest in <span style="color:red;font-weight:bold">Cloud and Security technologies</span>. Dheeraj is certified as an <span style="color:red;font-weight:bold">AWS Architect - Associate</span> and is currently studying Cyber Security.<br><br> Dheeraj has worked in diverse domains such as finance, security, automotive, and IoT. In his current role, he is involved in <span style="color:red;font-weight:bold">developing an IoT product</span> and is <span style="color:deepskyblue;font-style:italic">responsible for all stages of the SDLC lifecycle, showcasing his expertise in requirement gathering and transforming those requirements into a product</span>. He is <span style="color:red;font-weight:bold">the lead engineer</span> in his current project for designing (System as well as LLD) and managing the development.<br><br> Dheeraj is a versatile developer with a strong foundation in <span style="color:red;font-weight:bold">Object-Oriented Programming concepts</span>, <span style="color:red;font-weight:bold">data structures</span>, <span style="color:red;font-weight:bold">multi-threading</span>, and <span style="color:red;font-weight:bold">system programming</span>. He is proficient in different OS platforms like Linux & Windows and database management in <span style="color:red;font-weight:bold">MySQL</span> and <span style="color:red;font-weight:bold">SQL Server</span>. He is also skilled in scripting languages like <span style="color:deepskyblue;font-style:italic">Python</span> and <span style="color:deepskyblue;font-style:italic">JavaScript</span>, and <span style="color:deepskyblue;font-style:italic">well-versed in front-end technologies</span> like HTML, CSS, and JSON.<br><br> In addition to his technical skills, Dheeraj is knowledgeable in various <span style="color:red;font-weight:bold">design patterns and networking fundamentals</span>. He has also gained experience with cloud services like <span style="color:red;font-weight:bold">AWS</span> and IoT technologies like <span style="color:deepskyblue;font-style:italic">MQTT</span> and <span style="color:deepskyblue;font-style:italic">Raspberry Pi</span>. Source control tools such as <span style="color:red;font-weight:bold">SVN</span> and <span style="color:red;font-weight:bold">Git</span>, as well as reporting and task management platforms like <span style="color:red;font-weight:bold">JIRA</span> and Redmine, are also part of his toolkit.<br><br> Dheeraj has demonstrated his <span style="color:red; font-weight:bold;">leadership skills</span> by conducting <span style="color:red; font-weight:bold;">in-depth code reviews</span> and <span style="color:red; font-weight:bold;">mentoring a team</span>, ensuring their work meets high standards. He has also successfully <span style="color:red; font-weight:bold;">collaborated with business</span> and <span style="color:red; font-weight:bold;">subject matter experts</span> to translate requirements into technical solutions. With a solid understanding of <span style="color:red; font-weight:bold;">business modeling</span>, <span style="color:red; font-weight:bold;">SDLC processes</span>, and <span style="color:red; font-weight:bold;">performance tuning</span>, Dheeraj has demonstrated his ability to contribute to the <span style="color:red; font-weight:bold;">design and implementation of successful solutions</span>.<br><br> Dheeraj holds a <span style="color:skyblue; font-style:italic;">B.Tech</span> degree in <span style="color:skyblue; font-style:italic;">Electronics and Communication</span> and a <span style="color:skyblue; font-style:italic;">Post Graduate Diploma in System software Development from CDAC-ACTS, Pune</span>.<br><br> Apart from his technical expertise, Dheeraj is also an advocate of the philosophy that <span style="color:skyblue; font-style:italic;">you learn more when you teach</span>. He founded <a class="highlight-link" href="https://www.cppindia.co.in/" target="_blank" rel="noreferrer"> <span style="color:skyblue; font-style:italic;">CppIndia</span> </a>, <span style="color:skyblue; font-style:italic;">an active online C++ community in India</span>, where experienced professionals, fresh graduates, college students, and recruiters come together on a single platform. The community has gained recognition from international communities like <span style="color:skyblue; font-style:italic;">ISOCpp.org</span> and <span style="color:skyblue; font-style:italic;">CppCon</span>. CppIndia is a free community where members can attend talks and engage with industry experts. Be sure to check out their <span style="color:red; font-weight:bold;">YouTube channel</span> and join the <span style="color:red; font-weight:bold;">discord community</span> if you're interested!<br><br> Dheeraj may not be great at technical writing, but he's working on improving his skills through his personal blog. Dheeraj is also building a blogging platform where people like him can write their blogs under the brand name <a class="highlight-link" href="https://programminggyan.com/" target="_blank" rel="noreferrer"><span style="color:skyblue; font-style:italic;">ProgrammingGyan</span></a>.<br><br> Outside of work, Dheeraj enjoys gardening and DIY projects and has a passion for photography, capturing beautiful moments with his trusty Nikon. He also loves reading self-help and startup books, in addition to technical ones.<br><br> With his technical prowess and leadership skills, Dheeraj is an ideal candidate for any organization looking for a passionate software engineer who can make a positive difference.<br><br>
+# Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+# <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>
 
 # SKILLS SECTION
 # show_skills_card:
@@ -69,7 +72,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -81,12 +84,16 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: If you would like to get in touch with me, there are a few ways you can do so. You can send an email to <a href="mailto:contact@jhadheeraj.com">contact@jhadheeraj.com</a> and I will get back to you as soon as possible. Alternatively, you can find me on LinkedIn or Twitter. Feel free to send me a message or connect with me on these platforms. I'm always happy to hear from people and to have a conversation about anything related to technology, programming, or other interests we might share.
+
+show_youtube_card: true
+youtube_title: YouTube
+youtube_description: Talk's given by Dheeraj Jha.
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: jhadheeraj1986/dheeraj_jha
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.

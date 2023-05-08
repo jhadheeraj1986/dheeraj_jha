@@ -581,6 +581,11 @@ a {
   line-height: 1rem;
 }
 
+.project-achive {
+  line-height: 1rem;
+  color: skyblue;
+}
+
 .project-stars-forks {
   fill: $text-color;
   font-family: $font-family-numbers;
@@ -910,3 +915,37 @@ a {
     bottom: 0;
   }
 }
+
+.video-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.video-container iframe {
+  width: 90%;
+  max-width: 560px;
+  height: auto;
+  margin: 10px;
+}
+
+// .center-image {
+//   display: flex;
+//   justify-content: center;
+// }
+
+// .center-image img {
+//   display: block;
+// }
+
+// .center-image {
+//   text-align: center;
+// }
+
+// .center-image img {
+//   display: inline-block;
+// }
+
+

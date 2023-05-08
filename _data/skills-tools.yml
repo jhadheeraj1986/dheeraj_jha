@@ -8,29 +8,47 @@
 - name: Git
   weight: 5
 
-- name: Bash
+- name: Gcc
+  weight: 5
+
+- name: G++
+  weight: 5
+
+- name: Gdb
+  weight: 4
+
+- name: make/cmake
+  weight: 4
+
+- name: cppcheck
   weight: 3
+
+- name: cloc
+  weight: 3
+
+- name: Agile
+  weight: 4
 
 - name: Scrum
   weight: 3
 
-- name: Travis CI
-  weight: 1
+# - name: Travis CI
+#   weight: 1
 
 - name: Jenkins
   weight: 1
 
-- name: Chrome DevTools
-  weight: 2
+# - name: Chrome DevTools
+#   weight: 2
 
-- name: npm
-  weight: 2
+# - name: npm
+#   weight: 2
 
-- name: gulp
-  weight: 4
+# - name: gulp
+#   weight: 4
 
 - name: VS Code
-  weight: 3
+  weight: 4
 
 - name: Postman
-  weight: 4
+  weight: 3

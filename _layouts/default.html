@@ -57,7 +57,92 @@
       {% include section-contact.html %}
     </section>
     {% endif %}
+    {%if site.show_youtube_card %}
+    <section class="card neumorphism-card-big">
+      {% include section-youtube.html %}
+    </section>
+    {% endif %}
+    <!-- section-youtube.html -->
   </div>
+  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/NFiMaYgq2Tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+  
+
+  <!-- .video-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .video-container iframe {
+      width: 90%;
+      max-width: 560px;
+      height: auto;
+      margin: 10px;
+  } -->
+  
+
+  <!-- Test Code for YT -->
+  <!-- .tile {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    text-align: center;
+    width: 200px;
+  }
+  
+  .tile img {
+    max-width: 100%;
+  }
+  
+  .tile h3 {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  $(document).ready(function() {
+    var channelID = "YOUR_CHANNEL_ID";
+    var apiKey = "YOUR_API_KEY";
+    var maxResults = 5;
+  
+    $.get(
+      "https://www.googleapis.com/youtube/v3/search", {
+        part: "snippet",
+        channelId: channelID,
+        maxResults: maxResults,
+        key: apiKey,
+        type: "video"
+      },
+      function(data) {
+        if (data.items.length > 0) {
+          var html = "";
+          $.each(data.items, function(index, item) {
+            var videoId = item.id.videoId;
+            var videoTitle = item.snippet.title;
+            var videoThumbnail = item.snippet.thumbnails.medium.url;
+            var videoLink = "https://www.youtube.com/watch?v=" + videoId;
+            html += '<a href="' + videoLink + '" target="_blank">';
+            html += '<div class="tile">';
+            html += '<img src="' + videoThumbnail + '" alt="' + videoTitle + '">';
+            html += '<h3>' + videoTitle + '</h3>';
+            html += '</div>';
+            html += '</a>';
+          });
+          $("#youtube-videos").html(html);
+        } else {
+          $("#youtube-videos").html("<p>No videos found.</p>");
+        }
+      }
+    );
+  });
+  
+  <div id="youtube-videos"></div> -->
+
+
+  
   {% include footer.html %}
 </body>
 </html>

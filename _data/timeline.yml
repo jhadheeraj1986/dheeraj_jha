@@ -17,45 +17,118 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Capgemini Engineering
+  title-url: https://www.capgemini.com/
+  date: Dec 2021 - Present
+  subtitle: Senior Software Engineer Technical Lead
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: C++(11/14/17)
+    - tag: IoT
+    - tag: AWS (IoT Core, S3, DynamoDB, Lambda, EC2, CloudWatch, APIGateway)
+    - tag: Python
+    - tag: MQTT
+    - tag: mosquitto
+    - tag: Docker/Container
+    - tag: Design & Development
+    - tag: Agile/Scrum
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: CppIndia
+  title-url: https://www.cppindia.co.in/
+  date: Aug 2020 - Present
+  subtitle: Founder
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Team Managment
+    - tag: Communitee
+    - tag: Event Managment
+    - tag: Social Media Managment
+    - tag: Marketing
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: GE Healthcare
+  title-url: https://www.gehealthcare.com/
+  date: Jun 2021 - Dec 2021
+  subtitle: Sr Software Engineer
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: C++(11/14/17)
+    - tag: Handling and mentoring team
+    - tag: Product owner
+    - tag: Requirement gathering and User Story grooming
+    - tag: Design/Development
   timeline-side: right
 
-- title: Super University
+- title: HARMAN
+  title-url: https://www.harman.com/
+  date: Dec 2018 - Jun 2021
+  subtitle: Technical Lead - Product Development
+  tags:
+    - tag: C++(11/14/17)
+    - tag: IoT
+    - tag: Embedded System
+    - tag: IPC/Multithreading
+    - tag: RS232/485, CAN
+    - tag: Design & Development
+  timeline-side: left
+
+- title: PTC
+  title-url: https://www.ptc.com/en/?utm_source=linkedin_bio&utm_medium=social_corp&utm_campaign=homepage
+  date: Jun 2017 - Nov 2018
+  subtitle: Senior Software Specialist
+  tags:
+    - tag: C++(11)
+    - tag: VC++
+    - tag: ALM/PLM
+    - tag: MFC
+    - tag: IPC/Multithreading
+    - tag: Design & Development
+  timeline-side: right
+
+- title: Quick Heal
+  title-url: https://www.quickheal.co.in/
+  date: Feb 2016 - Jun 2017 
+  subtitle: Senior Software Engineer
+  tags:
+    - tag: C++(11)
+    - tag: VC++
+    - tag: Security
+    - tag: MFC
+    - tag: IPC/Multithreading
+    - tag: Design & Development
+    - tag: Windows
+  timeline-side: left
+
+- title: Knorr-Bremse
+  title-url: https://www.knorr-bremse.com/en/
+  date: Jun 2014 - Jan 2016 
+  subtitle: Sr. Software Developer 
+  tags:
+    - tag: C++(11)
+    - tag: Simulator
+    - tag: IPC/Multithreading
+    - tag: Design & Development
+    - tag: Windows/Unix
+  timeline-side: right
+
+- title: Robert Bosch
+  title-url: https://www.bosch-softwaretechnologies.com/en/index.html
+  date: Apr 2012 - May 2014
+  subtitle: Senior Engineer
+  tags:
+    - tag: C++(11)
+    - tag: VC++
+    - tag: IPC/Multithreading
+    - tag: Design & Development
+    - tag: Windows
+  timeline-side: left
+
+- title: CDAC-ACTS, Pune
+  title-url: https://cdac.in/
+  date:  Sept 2011
+  subtitle: PG Diploma in System Software Development
+  timeline-side: right
+
+- title: GLA Institute of Tech & Managment (University - UPTU)
   title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  date:  June 2009
+  subtitle: B.Tech(Electronics &  Communication)
   timeline-side: left

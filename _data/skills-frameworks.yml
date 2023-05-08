@@ -6,28 +6,40 @@
 #   weight: 5
 
 - name: Angular
+  weight: 1
+
+- name: AWS IoT sdk(C++)
   weight: 5
 
-- name: AngularJS
+- name: AWS sdk(C++)
   weight: 3
 
-- name: React
-  weight: 4
-
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
+- name: MFC
   weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
+- name: Qt
   weight: 2
 
-- name: Rails
-  weight: 4
+# - name: AngularJS
+#   weight: 3
+
+# - name: React
+#   weight: 4
+
+# - name: Node
+#   weight: 1
+
+# - name: Flutter
+#   weight: 2
+
+# - name: Express
+#   weight: 3
+
+# - name: Django
+#   weight: 1
+
+# - name: Spring
+#   weight: 2
+
+# - name: Rails
+#   weight: 4

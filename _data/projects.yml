@@ -13,21 +13,31 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Next generation IIoT (Capgemini Engineering)
+  # descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  descr: As part of the Next Generation IIoT project, I have been working on developing a highly advanced and cutting-edge edge platform that can be used in a wide range of industrial use cases, such as automotive, mining, healthcare, smart cities, and more. My primary focus has been on designing and developing a scalable and configurable cloud gateway layer for the device, which can interact with different cloud platforms and switch between them based on configuration. <span style="color:skyblue;font-style:italic">My design provides simple interfaces for the device's internal application to communicate, and is capable of handling thousands of messages per second</span>. As the gateway layer is exposed to the internet, <span style="color:skyblue;font-style:italic">I have also taken responsibility for enforcing the best security mechanisms to avoid any potential cyber attacks</span>.<br><br> Additionally, I have also been involved in the design of several other applications for the project. With my expertise in <span style="color:skyblue;font-style:italic">cloud technologies, docker/containers, IoT, MQTT, zero copy(nng lib), and protobuff</span>, I am confident that my contributions to the Next Generation IIoT project will not only help the project achieve its goals but also bring value to any organization seeking to enhance its IoT capabilities.
+  # demo: https://example.com/
+  # Achievements: Succefully designed and developed gateway application. Application is able to handle any new type of data. Can process 100s of messages per sec. Received customer appriciation and awards from organization.
+  Achievements: <ul> <li>Succefully designed and developed gateway application.</li> <li>Application is able to handle any new type of data.</li> <li>Can process 100s of messages per sec.</li> <li>Received customer appriciation and awards from organization.</li> </ul>
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: C++(11/14/17)
+    - tag: AWS (IoT Core, Lambda, Dynamodb, etc)
+    - tag: AWS IoT C++ Sdk
+    - tag: docker/containers
+    - tag: MQTT
+    - tag: zero copy(nng lib)
+    - tag: protobuff
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: IIoT gateway for fire security system (Harman)
+  descr: I have had the opportunity to work on a unique industrial IoT project - the development of <span style="color:skyblue;font-style:italic">an IIoT gateway for a fire security system</span>. The solution involves an IoT edge device that enables legacy fire systems/networks used in large industries to connect with modern cloud platforms such as Microsoft Azure. The edge device is capable of connecting with more than 30 types of fire system panels through different interfaces such as <span style="color:skyblue;font-style:italic">RS 232/485, CAN, and serial communication</span>. My primary responsibility as a software engineer was to establish a connection between different legacy panels and the edge device.<br><br>In addition to establishing connections, I was also responsible for receiving data from different communication interfaces and transforming it into the expected format required by the gateway layer. I have also been involved in the implementation of control commands received from the cloud, allowing for the control of the legacy system accordingly. The development of this IIoT gateway for a fire security system was a challenging yet rewarding experience, and I believe my contributions have been instrumental in enabling legacy systems to connect with modern cloud platforms, bringing immense value to the industry.
+  # demo: https://example.com/
+  Achievements: <ul> <li>Supported almost 8 devices in less than a month.</li> <li>Delivered release on time.</li> <li>Received client manager appreciation and Harman BeBrilliant awards.</li> </ul>
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: C++(11/14/17)
+    - tag: MS Azure
+    - tag: RS232/485
+    - tag: CAN
+    - tag: Serial communication
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+# - name: project Z
+#   descr: "You can also set a project without demo link and no tags"
